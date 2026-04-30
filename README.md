@@ -15,6 +15,6 @@ PathoInsight AI ứng dụng kiến trúc **Sparse Routing Attention** để ph�
 2. Chạy giao diện Web: `streamlit run src/ui/app.py`
 3. Chạy kiểm tra nhanh: `python main.py`
 
-## 👨‍ hiện tác giả
+## 👨‍ Tác giả
 - **Thí sinh:** Lê Vũ Anh Tin
 - **Bảng dự thi:** D3 - Sản phẩm sáng tạo
