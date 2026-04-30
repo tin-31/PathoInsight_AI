@@ -3,7 +3,7 @@
 *Dự án tham dự Hội thi Tin học trẻ toàn quốc lần thứ XXXII - 2026*
 
 ## 🌟 Giới thiệu
-PathoInsight AI ứng dụng kiến trúc **Sparse Routing Attention** để phân tích các mẫu ảnh mô bệnh học khổng lồ, giúp bác sĩ xác định nhanh chóng các vùng tế bào ác tính với độ chính xác cao và có khả năng giải thích (XAI).
+PathoInsight AI ứng dụng kiến trúc **Sparse Routing Attention** để phân tích các mẫu ảnh mô bệnh học khổng lồ, giúp bác sĩ xác định nhanh chóng các vùng tế bào ác tính với độ chính xác cao và có khả năng giải thích (XAI).d
 
 ## 🛠 Cấu trúc dự án
 - `src/core/`: Thuật toán cốt lõi và kiến trúc mạng Neural.
